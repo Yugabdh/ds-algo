@@ -1,0 +1,1 @@
+1. [Binary Search](https://github.com/Yugabdh/ds-algo/tree/main/algorithms/BinarySearch)
